@@ -1,4 +1,4 @@
-# Unsupervised Learning on the Forest CoverType Dataset 🌲
+# Clustering the Forest CoverType Dataset
 
 This repository contains the final project for a university course in **Unsupervised Learning**.
 The goal of the project was to explore hidden structure within the Forest CoverType dataset
